@@ -1,14 +1,19 @@
 # IMO GENIUS ALARM
 
+<p align="center">
+  <img src="imo-genius-alarm/images/devlogs/2026-10-29-devlog-70197.webp" alt="Alarm clock concept from the October 29 update" width="48%">
+  <img src="imo-genius-alarm/images/devlogs/2026-10-26-devlog-69298-2.webp" alt="PCB underside in the KiCad 3D viewer" width="48%">
+</p>
+
 A hardware alarm-clock project by **@YuviVerma**. The Stardance project describes the goal as setting a stopwatch or alarm for a long maths session.
 
 ## Contents
 
-- `Journal.md` — dated, source-grounded record of the three devlogs and the files gathered.
-- `images/devlogs/` — four WebP images downloaded from the three Stardance devlogs.
-- `hardware/kicad/` — KiCad project, PCB, schematic, and exported component CSV.
-- `hardware/3d-models/` — the KiCad STEP assembly export and a TFT display STEP model.
-- `hardware/fusion/` — a local Fusion 360 `.f3d` file and its PNG preview.
+- `imo-genius-alarm/Journal.md` — dated, source-grounded record of the three devlogs and the files gathered.
+- `imo-genius-alarm/images/devlogs/` — four WebP images downloaded from the three Stardance devlogs.
+- `imo-genius-alarm/hardware/kicad/` — KiCad project, PCB, schematic, and exported component CSV.
+- `imo-genius-alarm/hardware/3d-models/` — the KiCad STEP assembly export and a TFT display STEP model.
+- `imo-genius-alarm/hardware/fusion/` — a local Fusion 360 `.f3d` file and its PNG preview.
 
 ## File notes
 
