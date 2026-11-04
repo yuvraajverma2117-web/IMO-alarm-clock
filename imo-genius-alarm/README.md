@@ -1,8 +1,6 @@
 # IMO GENIUS ALARM
 
-A hardware alarm-clock project by **@YuviVerma**. The Stardance project describes the goal as setting a stopwatch or alarm for a long maths session. This local transfer package was assembled on 2026-11-04 from the project page, its three published devlogs, and matching design files found on the Mac.
-
-> **Review before publishing:** the original KiCad board artwork includes personal identifying details (a full name, a date-like string, and a town/postcode). These source files are included unchanged. No GitHub repository has been created or published from this package.
+A hardware alarm-clock project by **@YuviVerma**. The Stardance project describes the goal as setting a stopwatch or alarm for a long maths session.
 
 ## Contents
 
