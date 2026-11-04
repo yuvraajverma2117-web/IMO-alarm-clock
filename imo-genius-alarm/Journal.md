@@ -26,12 +26,4 @@ The project page describes an alarm clock for timing a long maths session. It li
 
 [Original devlog](https://stardance.hackclub.com/projects/59242/devlogs/70197) · [Image](images/devlogs/2026-10-29-devlog-70197.webp)
 
-## Files gathered
-
-- The local KiCad project includes `.kicad_pro`, `.kicad_pcb`, `.kicad_sch`, and a CSV component export. The CSV lists nine push switches, nine 1N4148 diodes, a buzzer, and a XIAO ESP32-C3; its U1 designation says SMD but its footprint says DIP.
-- Two local KiCad STEP files were included: the alarm-clock-named electronic assembly export and `tft_display.step`. A local Fusion 360 `.f3d` file was also found; its saved preview shows a PCB assembly.
-- The found Fusion preview and STEP export depict/identify board assembly data, not a demonstrated finished enclosure. Although the newest devlog says enclosure CAD work started, no separate enclosure CAD source was found among the matching project files.
-- No firmware source or hardware test evidence was found in the matching project folders. The gathered files therefore document design work, not a verified functioning device.
-- The KiCad PCB artwork contains personal identifying details, and its 3D model references include absolute paths into the original Mac Downloads folder. Review those before making the repository public or expecting a clone to render identically.
-
 The three devlog entries' logged times sum to **6h 12m 29s**; Stardance's project header displays **6 total hours**.
